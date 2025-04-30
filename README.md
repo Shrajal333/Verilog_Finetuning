@@ -10,4 +10,5 @@ Loops through all Verilog files in a specified directory, extracts useful code s
  - LoRA (get_peft_model) for parameter-efficient fine-tuning
  - BitsAndBytesConfig for 4-bit training
  - SFTTrainer from HuggingFace Transformers for supervised fine-tuning
+ - Perplexity checks for model comparison
  - All powered by RunPod GPU infrastructure
