@@ -1,6 +1,6 @@
 # LLM_Finetuning
 
-### Verilog Parsing & Template Generation
+### Verilog Parsing & AutoComplete Template Generation
 Loops through all Verilog files in a specified directory, extracts useful code structures (e.g., modules, always blocks, if-else constructs), and converts them into autocomplete training templates.
 
 ### Model Fine-Tuning with Qwen2.5-Coder-1.5B
